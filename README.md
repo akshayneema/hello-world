@@ -1,5 +1,4 @@
 # hello-world
-abhi sikh to lene de bhai
 bhai me hu yha pe abhi
 navya
 naveli
